@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/NaifResume/static/css/main.012265dd.chunk.css",
-    "main.js": "/NaifResume/static/js/main.b04eca8f.chunk.js",
-    "main.js.map": "/NaifResume/static/js/main.b04eca8f.chunk.js.map",
-    "runtime-main.js": "/NaifResume/static/js/runtime-main.4b8dff61.js",
-    "runtime-main.js.map": "/NaifResume/static/js/runtime-main.4b8dff61.js.map",
-    "static/js/2.b83e252b.chunk.js": "/NaifResume/static/js/2.b83e252b.chunk.js",
-    "static/js/2.b83e252b.chunk.js.map": "/NaifResume/static/js/2.b83e252b.chunk.js.map",
-    "index.html": "/NaifResume/index.html",
-    "precache-manifest.c38d3f5cfd1812eb05883c40974ad576.js": "/NaifResume/precache-manifest.c38d3f5cfd1812eb05883c40974ad576.js",
-    "service-worker.js": "/NaifResume/service-worker.js",
-    "static/css/main.012265dd.chunk.css.map": "/NaifResume/static/css/main.012265dd.chunk.css.map",
-    "static/js/2.b83e252b.chunk.js.LICENSE.txt": "/NaifResume/static/js/2.b83e252b.chunk.js.LICENSE.txt"
+    "main.css": "/i3z101/NaifResume.git/static/css/main.012265dd.chunk.css",
+    "main.js": "/i3z101/NaifResume.git/static/js/main.7632458f.chunk.js",
+    "main.js.map": "/i3z101/NaifResume.git/static/js/main.7632458f.chunk.js.map",
+    "runtime-main.js": "/i3z101/NaifResume.git/static/js/runtime-main.1391b68a.js",
+    "runtime-main.js.map": "/i3z101/NaifResume.git/static/js/runtime-main.1391b68a.js.map",
+    "static/js/2.4620c0c3.chunk.js": "/i3z101/NaifResume.git/static/js/2.4620c0c3.chunk.js",
+    "static/js/2.4620c0c3.chunk.js.map": "/i3z101/NaifResume.git/static/js/2.4620c0c3.chunk.js.map",
+    "index.html": "/i3z101/NaifResume.git/index.html",
+    "precache-manifest.056ae808bcb4653def1e31ada58f271e.js": "/i3z101/NaifResume.git/precache-manifest.056ae808bcb4653def1e31ada58f271e.js",
+    "service-worker.js": "/i3z101/NaifResume.git/service-worker.js",
+    "static/css/main.012265dd.chunk.css.map": "/i3z101/NaifResume.git/static/css/main.012265dd.chunk.css.map",
+    "static/js/2.4620c0c3.chunk.js.LICENSE.txt": "/i3z101/NaifResume.git/static/js/2.4620c0c3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4b8dff61.js",
-    "static/js/2.b83e252b.chunk.js",
+    "static/js/runtime-main.1391b68a.js",
+    "static/js/2.4620c0c3.chunk.js",
     "static/css/main.012265dd.chunk.css",
-    "static/js/main.b04eca8f.chunk.js"
+    "static/js/main.7632458f.chunk.js"
   ]
 }
