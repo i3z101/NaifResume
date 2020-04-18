@@ -1,0 +1,94 @@
+{
+    "works" : [
+        {
+            "id" : 1,
+            "icon_name": "fas fa-mobile fa-2x",
+            "title": "ESHTERLY",
+            "body": "Eshterly is an app for Android to deliver what you want!."
+        },
+        {
+            "id" : 2,
+            "icon_name": "fab fa-java fa-2x",
+            "title": "JAVA",
+            "body": "Practicer in JAVA."
+        },
+        {
+            "id" : 3,
+            "icon_name": "fab fa-cuttlefish fa-2x",
+            "title": "C language",
+            "body": "professional in C language."
+        }
+    ],
+
+    "portfolio" : [
+        {
+            "id":1,
+            "image": "/images/portfolio-img1.jpg"
+        },
+        {
+            "id":2,
+            "image": "/images/portfolio-img2.jpg"
+        },
+        {
+            "id":3,
+            "image": "/images/portfolio-img3.jpg"
+        },
+        {
+            "id":4,
+            "image": "/images/portfolio-img4.jpg"
+        },
+        {
+            "id":5,
+            "image": "/images/portfolio-img5.jpg"
+        },
+        {
+            "id":6,
+            "image": "/images/portfolio-img6.jpg"
+        },
+        {
+            "id":7,
+            "image": "/images/portfolio-img4.jpg"
+        },
+        {
+            "id":8,
+            "image": "/images/portfolio-img8.jpg"
+        }
+    ] ,
+    "social" : [
+        {
+            "id": 1,
+            "icon" : "icon fa fa-facebook fa-lg",
+            "title" : "Follow Me on",
+            "body" : "Naif"
+        },
+        {
+            "id": 2,
+            "icon" : "icon fa fa-twitter fa-lg",
+            "title" : "Tweet Me on",
+            "body" : "@Naif"
+        },
+        {
+            "id": 3,
+            "icon" : "fab fa-instagram fa-lg",
+            "title" : "Post me on",
+            "body" : "@Naif"
+        }
+    ],
+    "skills":[
+        {
+            "id":1,
+            "skillname": "Android Studio",
+            "precentage": "80%"
+        },
+        {
+            "id":2,
+            "skillname": "C",
+            "precentage": "100%"
+        },
+        {
+            "id":3,
+            "skillname": "web developing",
+            "precentage": "70%"
+        }
+    ]
+}
